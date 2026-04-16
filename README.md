@@ -1,11 +1,11 @@
-# 👨‍💻 Ruhid | DevOps Engineer (In Progress)
+# 👨‍💻 Ruhid | DevOps Engineer | System Administrator
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=00F7FF&center=true&vCenter=true&width=700&lines=Linux+%7C+DevOps+%7C+Automation;Building+Real+Infrastructure;Future+Production+Engineer" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Ruhid%20DevOps&fontSize=40&color=0:00F7FF,100:0066FF" />
+  <img src="https://capsule-render.vercel.app/api?type=venom&height=200&text=Ruhid%20DevOps&fontColor=ffffff&fontSize=40&color=0:00F7FF,100:0066FF" />
 </p>
 
 ---
@@ -21,7 +21,7 @@
 ## 🧰 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,ubuntu,centos,windows,docker,kubernetes,ansible,terraform,nginx,prometheus,grafana,python,bash,postgresql,git" />
+  <img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,docker,kubernetes,ansible,terraform,nginx,prometheus,grafana,python,bash,postgresql,git" />
 </p>
 
 ---
