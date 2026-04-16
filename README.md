@@ -65,8 +65,8 @@
 
 ## 📬 Contact
 
-* Email: [your@email.com](mailto:ruhiddadashli@gmail.com)
-* LinkedIn: [your-link](https://www.linkedin.com/in/ruhiddadash/)
+* Email: [ruhiddadasli@gmail.com](mailto:ruhiddadashli@gmail.com)
+* LinkedIn: [Ruhid Dadashov](https://www.linkedin.com/in/ruhiddadash/)
 
 ---
 
