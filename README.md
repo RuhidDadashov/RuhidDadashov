@@ -12,9 +12,8 @@
 
 ## 🚀 About Me
 
-* Focused on **DevOps & System Administration**
-* Building real infrastructure (not theory)
-* Automation-first mindset
+* I am focused on becoming a highly skilled **DevOps / System Administrator** with strong hands-on experience in building, automating, and managing infrastructure.
+* I don’t just learn tools — I build systems that simulate real production environments.
 
 ---
 
@@ -92,7 +91,7 @@
   <a href="mailto:ruhiddadashli@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="[https://linkedin.com/in/your-link](https://www.linkedin.com/in/ruhiddadash/)">
+  <a href="https://www.linkedin.com/in/ruhiddadash/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
